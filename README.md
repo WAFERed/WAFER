@@ -2,12 +2,12 @@
 World Aquifer Forecast Engine & Research
 ..description..
   
-# Dependencies
+## Dependencies
 - git
 - curl
 
-# How to Setup
+## How to Setup
 Simply, open a terminal and run:
 ```console
-curl https://github.com/WAFERed/WAFER/main/setup.sh | sh
+curl https://raw.githubusercontent.com/WAFERed/WAFER/main/setup.sh | sh
 ```
