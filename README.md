@@ -9,5 +9,5 @@ World Aquifer Forecast Engine & Research
 ## How to Setup
 Simply, open a terminal and run:
 ```console
-curl https://raw.githubusercontent.com/WAFERed/WAFER/main/setup.sh | sh
+curl https://raw.githubusercontent.com/WAFERed/WAFER/main/setup.sh | bash
 ```
