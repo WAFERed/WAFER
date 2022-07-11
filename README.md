@@ -14,7 +14,7 @@ Anyone can contribute somehow by improving prediction techniques, predicting for
 
 ## Contact
 - Email Address: : <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
-- Website: [projectwafer.com](https://www.projejctwafer.com) 
+- Website: [projectwafer.com](https://www.projectwafer.com) 
 
 ## How to Setup
 Simply, open a terminal and run:
