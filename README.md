@@ -1,3 +1,5 @@
+![WAFER Logo](.resources/WAFER.png?raw=true "Title")
+
 # WAFER
 World Aquifer Forecast Engine & Research
 ..description..
