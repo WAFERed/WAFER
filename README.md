@@ -13,7 +13,7 @@ Anyone can contribute somehow by improving prediction techniques, predicting for
 ..description..
 
 ## Contact
-- Email Address: :email: <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
+- Email Address: : <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
 - Website: [projectwafer.com](https://www.projejctwafer.com) 
 
 ## How to Setup
