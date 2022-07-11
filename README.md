@@ -1,4 +1,6 @@
-![WAFER Logo](.resources/WAFER.png?raw=true "Title")
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/WAFERed/WAFER/main/.resources/WAFER.png">
+</p>
 
 # WAFER
 World Aquifer Forecast Engine & Research
