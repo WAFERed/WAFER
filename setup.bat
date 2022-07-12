@@ -1,11 +1,11 @@
 @echo off
 mkdir WAFER
 cd WAFER
-curl https://github.com/WAFERed/BlueEngine/archive/refs/heads/main.zip -O BlueEngine.zip
-powershell -command "Expand-Archive -Force '%~dp0main.zip' '%~dp0'"
+curl https://github.com/WAFERed/BlueEngine/archive/refs/heads/main.zip -o BlueEngine.zip
+powershell -command "Expand-Archive -Force BlueEngine.zip BlueEngine"
 cd BlueEngine
-curl https://github.com/WAFERed/WaterBucket/archive/refs/heads/main.zip -O WaterBucket.zip
-powershell -command "Expand-Archive -Force '%~dp0main.zip' '%~dp0'"
-del main.zip
+curl https://github.com/WAFERed/WaterBucket/archive/refs/heads/main.zip -o WaterBucket.zip
+powershell -command "Expand-Archive -Force WaterBucket.zip WaterBucket"
+del WaterBucket.zip.zip
 cd ..
-del main.zip
+del BlueEngine.zip
