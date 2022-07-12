@@ -3,7 +3,7 @@
 </p>
 
 # WAFER
-World Aquifer Forecast Engine and Research is an OpenSource project that uses prediction models to forecast underground water levels in the future. Currently the research is being done in Islamabad, Pakistan but the same techniques can be used for places all over the world (and it is highly encouraged by us to do it.
+**World Aquifer Forecast Engine and Research** is an OpenSource project that uses prediction models to forecast underground water levels in the future. Currently the research is being done in Islamabad, Pakistan but the same techniques can be used for places all over the world (and it is highly encouraged by us to do it.
 
 
 ## Contributing
