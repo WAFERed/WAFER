@@ -6,6 +6,6 @@ tar -xf BlueEngine.zip
 cd BlueEngine.zip
 curl https://github.com/WAFERed/WaterBucket/archive/refs/heads/main.zip -O WaterBucket.zip
 tar -xf WaterBucket.zip
-rm WaterBucket.zip
+del WaterBucket.zip
 cd ..
-rm BlueEngine.zip
+del BlueEngine.zip
