@@ -7,7 +7,7 @@
 
 
 ## Contributing
-This is a project initiated by three students as an attempt to shed light on the issue. We are aware we cannot implement everything or think of the best ways to model, document, promote, develop for this projejct. This is why contribution of any kind is needed and appreciated in this project. Let us know of changes, bugs, better modelling techniques. Help write documentation for others, promote this cause, help pass better legislation and regulations in your region to combat this issue and best of all conserve water yourself.
+This is a project initiated by three students as an attempt to shed light on the issue. We are aware we cannot implement everything or think of the best ways to model, document, promote, develop for this project. This is why contribution of any kind is needed and appreciated in this project. Let us know of changes, bugs, better modelling techniques. Help write documentation for others, promote this cause, help pass better legislation and regulations in your region to combat this issue and best of all conserve water yourself.
 
 ## Contact
 - Email Address: : <a href = "mailto: email.wafer@gmail.com">email.wafer@gmail.com</a>
